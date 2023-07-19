@@ -1,0 +1,24 @@
+{
+  "name": "package-dark",
+  "version": "1.0.0",
+  "description": "Create a package for dark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arise-Vision/package-dark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arise-Vision/package-dark/issues"
+  },
+  "homepage": "https://github.com/Arise-Vision/package-dark#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}
