@@ -1,6 +1,6 @@
 {
   "name": "package-dark",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create a package for dark",
   "scripts": {
     "rollup": "rollup -c"
